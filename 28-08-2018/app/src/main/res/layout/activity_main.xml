@@ -51,12 +51,12 @@
                 android:id="@+id/optDolar"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="U$D"/>
+                android:text="@string/USD"/>
             <RadioButton
                 android:id="@+id/optPesos"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="ARS$"/>
+                android:text="@string/ARS"/>
         </RadioGroup>
 
         <TextView
@@ -78,10 +78,11 @@
             android:text="@string/days"/>
 
         <SeekBar
-            android:id="@+id/seeDias"
+            android:id="@+id/seekDias"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:max="180"/>
+            android:max="180"
+            android:min="10"/>
 
         <TextView
             android:id="@+id/tvDiasSeleccionados"

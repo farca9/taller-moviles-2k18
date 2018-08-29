@@ -11,4 +11,6 @@
     <string name="AccionVencimientoRenovar">SE RENUEVA</string>
     <string name="AccionVencimientoAcreditar">SE ACREDITA</string>
     <string name="plazoFijo">HACER PLAZO FIJO</string>
+    <string name="USD">U$D</string>
+    <string name="ARS">ARS$</string>
 </resources>

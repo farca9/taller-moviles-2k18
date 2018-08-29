@@ -105,7 +105,6 @@ public class PlazoFijo {
     }
 
     public Double intereses(){
-        double aux = Math.pow((1+(this.calcularTasa()/100)),dias/360);
-        return monto * (aux - 1);
+        return monto*(Math.pow((1+(this.calcularTasa()/100)),dias/360) - 1);
     }
 }
