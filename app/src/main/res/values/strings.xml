@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Banco Online</string>
+    <string name="mail">Correo Electronico</string>
+    <string name="cuit">CUIT / CUIL</string>
+    <string name="currency">Moneda</string>
+    <string name="amount">Monto a invertir</string>
+    <string name="days">Dias</string>
+    <string name="term">dias de plazo</string>
+    <string name="informMail">Avisar por mail antes del vencimiento</string>
+    <string name="terms">Aceptar terminos y condiciones</string>
+    <string name="AccionVencimientoRenovar">SE RENUEVA</string>
+    <string name="AccionVencimientoAcreditar">SE ACREDITA</string>
+    <string name="plazoFijo">HACER PLAZO FIJO</string>
+</resources>
