@@ -20,6 +20,11 @@ public class Cliente {
         this.cuil = cuil;
     }
 
+    public Cliente(String mail, String cuil){
+        this.mail=mail;
+        this.cuil=cuil;
+    }
+
     @Override
     public String toString() {
         return "Cliente{" +

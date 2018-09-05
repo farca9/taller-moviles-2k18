@@ -9,8 +9,15 @@
     <string name="informMail">Avisar por mail antes del vencimiento</string>
     <string name="terms">Aceptar terminos y condiciones</string>
     <string name="AccionVencimientoRenovar">SE RENUEVA</string>
-    <string name="AccionVencimientoAcreditar">SE ACREDITA</string>
+    <string name="AccionVencimientoAcreditar">SE ACREDITA AUTOMATICAMENTE</string>
     <string name="plazoFijo">HACER PLAZO FIJO</string>
     <string name="USD">U$D</string>
     <string name="ARS">ARS$</string>
+    <string name="selectedDays">Dias seleccionados</string>
+    <string name="errorTermsToast">Se deben aceptar los terminos</string>
+    <string name="emptyMail">El mail esta vacio</string>
+    <string name="emptyCuit">El cuit esta vacio</string>
+    <string name="invalidAmount">El monto no es valido</string>
+    <string name="invalidDaysSelected">La cantidad de dias seleccionados no es valida</string>
+    <string name="errorValidationToast">Los datos ingresados no son validos</string>
 </resources>
